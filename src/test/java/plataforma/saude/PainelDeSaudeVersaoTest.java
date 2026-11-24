@@ -6,7 +6,7 @@ import java.util.List;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-// @verifica: CT-180, CT-183
+// @verifica: CT-192, CT-195
 class PainelDeSaudeVersaoTest {
 
     @Test
